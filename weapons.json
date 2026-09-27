@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790548962687,
+  "updated": 1790550763301,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -111,7 +111,7 @@
       "copies": [
         {
           "state": "stashed",
-          "seen": 1790548962683
+          "seen": 1790550763295
         },
         {
           "state": "stashed",
