@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "updated": 1790528254620,
+  "weapons": {
+    "HUMAN": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "SWIFT_BLOODED": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "EMBERBORN": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "STONEKIN": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "VERDANT_TOUCHED": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "FROSTVEIL": {
+      "state": "destroyed",
+      "vaultConquered": true,
+      "copies": [
+        {
+          "state": "destroyed",
+          "seen": 1790452680124
+        }
+      ]
+    },
+    "VOIDKIN": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "STORMCALLER": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "IRONCLAD": {
+      "state": "stashed",
+      "vaultConquered": false,
+      "copies": [
+        {
+          "state": "stashed",
+          "seen": 1790180153874
+        },
+        {
+          "state": "stashed",
+          "seen": 1790086294414
+        }
+      ]
+    },
+    "BLOODFORGED": {
+      "state": "stashed",
+      "vaultConquered": true,
+      "copies": [
+        {
+          "state": "stashed",
+          "seen": 1790518331903
+        },
+        {
+          "state": "stashed",
+          "seen": 1790089921689
+        },
+        {
+          "state": "destroyed",
+          "seen": 1790086679713
+        }
+      ]
+    },
+    "AETHERBORN": {
+      "state": "stashed",
+      "vaultConquered": false,
+      "copies": [
+        {
+          "state": "stashed",
+          "seen": 1790089921689
+        },
+        {
+          "state": "stashed",
+          "seen": 1790086898164
+        },
+        {
+          "state": "stashed",
+          "seen": 1790085987015
+        },
+        {
+          "state": "destroyed",
+          "seen": 1790090006186
+        },
+        {
+          "state": "destroyed",
+          "seen": 1790089937237
+        }
+      ]
+    },
+    "ABYSSBORN": {
+      "state": "stashed",
+      "vaultConquered": true,
+      "copies": [
+        {
+          "state": "stashed",
+          "seen": 1790528254607
+        },
+        {
+          "state": "stashed",
+          "seen": 1790344014825
+        },
+        {
+          "state": "stashed",
+          "seen": 1790089618943
+        },
+        {
+          "state": "stashed",
+          "seen": 1790086898164
+        },
+        {
+          "state": "stashed",
+          "seen": 1790085671464
+        }
+      ]
+    }
+  }
+}
