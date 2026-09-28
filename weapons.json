@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790615061372,
+  "updated": 1790615361372,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -63,8 +63,8 @@
       "copies": [
         {
           "state": "held",
-          "owner": "Forge_Admin",
-          "seen": 1790605418753
+          "owner": "oliverstone",
+          "seen": 1790615361370
         }
       ]
     },
