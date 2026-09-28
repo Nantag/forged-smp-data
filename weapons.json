@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790586275095,
+  "updated": 1790586407730,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -64,7 +64,7 @@
         {
           "state": "held",
           "owner": "oliverstone",
-          "seen": 1790586275090
+          "seen": 1790586289580
         }
       ]
     },
@@ -74,12 +74,13 @@
       "copies": []
     },
     "ABYSSBORN": {
-      "state": "stashed",
+      "state": "held",
       "vaultConquered": true,
       "copies": [
         {
-          "state": "stashed",
-          "seen": 1790559752535
+          "state": "held",
+          "owner": "ItsSt4rdust",
+          "seen": 1790586349931
         }
       ]
     }
