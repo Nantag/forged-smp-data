@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790585408898,
+  "updated": 1790585708885,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -68,14 +68,9 @@
       ]
     },
     "AETHERBORN": {
-      "state": "stashed",
+      "state": "unclaimed",
       "vaultConquered": false,
-      "copies": [
-        {
-          "state": "stashed",
-          "seen": 1790089921689
-        }
-      ]
+      "copies": []
     },
     "ABYSSBORN": {
       "state": "stashed",
