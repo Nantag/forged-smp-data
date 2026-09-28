@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790589023493,
+  "updated": 1790589323490,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -29,7 +29,7 @@
     },
     "FROSTVEIL": {
       "state": "destroyed",
-      "vaultConquered": true,
+      "vaultConquered": false,
       "copies": [
         {
           "state": "destroyed",
