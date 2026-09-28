@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790623162564,
+  "updated": 1790624965664,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -64,7 +64,7 @@
         {
           "state": "held",
           "owner": "oliverstone",
-          "seen": 1790623162562
+          "seen": 1790624965662
         }
       ]
     },
