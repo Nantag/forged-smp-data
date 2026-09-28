@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790583455771,
+  "updated": 1790585408898,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -54,10 +54,6 @@
         {
           "state": "stashed",
           "seen": 1790180153874
-        },
-        {
-          "state": "stashed",
-          "seen": 1790086294414
         }
       ]
     },
@@ -68,14 +64,6 @@
         {
           "state": "stashed",
           "seen": 1790518331903
-        },
-        {
-          "state": "stashed",
-          "seen": 1790089921689
-        },
-        {
-          "state": "destroyed",
-          "seen": 1790086679713
         }
       ]
     },
@@ -86,22 +74,6 @@
         {
           "state": "stashed",
           "seen": 1790089921689
-        },
-        {
-          "state": "stashed",
-          "seen": 1790086898164
-        },
-        {
-          "state": "stashed",
-          "seen": 1790085987015
-        },
-        {
-          "state": "destroyed",
-          "seen": 1790090006186
-        },
-        {
-          "state": "destroyed",
-          "seen": 1790089937237
         }
       ]
     },
@@ -112,22 +84,6 @@
         {
           "state": "stashed",
           "seen": 1790559752535
-        },
-        {
-          "state": "stashed",
-          "seen": 1790344014825
-        },
-        {
-          "state": "stashed",
-          "seen": 1790089618943
-        },
-        {
-          "state": "stashed",
-          "seen": 1790086898164
-        },
-        {
-          "state": "stashed",
-          "seen": 1790085671464
         }
       ]
     }
