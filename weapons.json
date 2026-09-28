@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790585708885,
+  "updated": 1790586275095,
   "weapons": {
     "HUMAN": {
       "state": "unclaimed",
@@ -58,12 +58,13 @@
       ]
     },
     "BLOODFORGED": {
-      "state": "stashed",
+      "state": "held",
       "vaultConquered": true,
       "copies": [
         {
-          "state": "stashed",
-          "seen": 1790518331903
+          "state": "held",
+          "owner": "oliverstone",
+          "seen": 1790586275090
         }
       ]
     },
