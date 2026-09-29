@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": 1790709839595,
+  "updated": 1790710139590,
   "weapons": {
     "HUMAN": {
-      "state": "unclaimed",
-      "vaultConquered": false,
+      "state": "conquered",
+      "vaultConquered": true,
       "copies": []
     },
     "SWIFT_BLOODED": {
@@ -64,7 +64,7 @@
         {
           "state": "held",
           "owner": "oliverstone",
-          "seen": 1790709839593
+          "seen": 1790710139589
         }
       ]
     },
