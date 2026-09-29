@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790710439599,
+  "updated": 1790711100734,
   "weapons": {
     "HUMAN": {
       "state": "held",
@@ -9,7 +9,7 @@
         {
           "state": "held",
           "owner": "keibongo",
-          "seen": 1790710439596
+          "seen": 1790710638494
         }
       ]
     },
@@ -70,7 +70,7 @@
         {
           "state": "held",
           "owner": "oliverstone",
-          "seen": 1790710439596
+          "seen": 1790711039888
         }
       ]
     },
