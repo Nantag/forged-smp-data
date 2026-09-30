@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790801161855,
+  "updated": 1790802966444,
   "weapons": {
     "HUMAN": {
       "state": "held",
@@ -70,7 +70,7 @@
         {
           "state": "held",
           "owner": "oliverstone",
-          "seen": 1790801161853
+          "seen": 1790802366451
         }
       ]
     },
@@ -86,7 +86,7 @@
         {
           "state": "held",
           "owner": "ItsSt4rdust",
-          "seen": 1790801161853
+          "seen": 1790802966442
         }
       ]
     }
