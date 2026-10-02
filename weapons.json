@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1790952877195,
+  "updated": 1790954681895,
   "weapons": {
     "HUMAN": {
       "state": "held",
@@ -86,7 +86,7 @@
         {
           "state": "held",
           "owner": "ItsSt4rdust",
-          "seen": 1790870907100
+          "seen": 1790954211546
         }
       ]
     }
