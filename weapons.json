@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1792080353402,
+  "updated": 1792082153404,
   "weapons": {
     "HUMAN": {
       "state": "held",
@@ -70,7 +70,7 @@
         {
           "state": "held",
           "owner": "nantag",
-          "seen": 1792075837533
+          "seen": 1792082153402
         }
       ]
     },
