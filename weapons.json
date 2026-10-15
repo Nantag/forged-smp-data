@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1792075537237,
+  "updated": 1792075837537,
   "weapons": {
     "HUMAN": {
       "state": "held",
@@ -69,8 +69,8 @@
       "copies": [
         {
           "state": "held",
-          "owner": "oliverstone",
-          "seen": 1791401264168
+          "owner": "nantag",
+          "seen": 1792075837533
         }
       ]
     },
