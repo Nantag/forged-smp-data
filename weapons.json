@@ -1,61 +1,79 @@
 {
   "version": 1,
-  "updated": 1792681018494,
+  "updated": 1792681659839,
   "weapons": {
-    "HUMAN": {
-      "state": "held",
+    "mirror": {
+      "state": "conquered",
       "vaultConquered": true,
-      "copies": [
-        {
-          "state": "held",
-          "owner": "keibongo",
-          "seen": 1790710638494
-        }
-      ]
+      "copies": []
     },
-    "SWIFT_BLOODED": {
+    "stone": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
-    "EMBERBORN": {
+    "verdant": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
-    "STONEKIN": {
+    "magma": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
-    "VERDANT_TOUCHED": {
+    "venom": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
-    "FROSTVEIL": {
-      "state": "destroyed",
-      "vaultConquered": false,
-      "copies": [
-        {
-          "state": "destroyed",
-          "seen": 1790452680124
-        }
-      ]
-    },
-    "VOIDKIN": {
+    "fortune": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
-    "STORMCALLER": {
+    "rime": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "tempest": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "umbral": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "lumen": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "echo": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "briar": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "anchor": {
+      "state": "unclaimed",
+      "vaultConquered": false,
+      "copies": []
+    },
+    "chrono": {
       "state": "unclaimed",
       "vaultConquered": false,
       "copies": []
     },
     "IRONCLAD": {
       "state": "stashed",
-      "vaultConquered": false,
       "copies": [
         {
           "state": "stashed",
@@ -63,9 +81,18 @@
         }
       ]
     },
+    "ABYSSBORN": {
+      "state": "held",
+      "copies": [
+        {
+          "state": "held",
+          "owner": "ItsSt4rdust",
+          "seen": 1790954211546
+        }
+      ]
+    },
     "BLOODFORGED": {
       "state": "held",
-      "vaultConquered": true,
       "copies": [
         {
           "state": "held",
@@ -74,19 +101,22 @@
         }
       ]
     },
-    "AETHERBORN": {
-      "state": "unclaimed",
-      "vaultConquered": false,
-      "copies": []
+    "FROSTVEIL": {
+      "state": "destroyed",
+      "copies": [
+        {
+          "state": "destroyed",
+          "seen": 1790452680124
+        }
+      ]
     },
-    "ABYSSBORN": {
+    "HUMAN": {
       "state": "held",
-      "vaultConquered": true,
       "copies": [
         {
           "state": "held",
-          "owner": "ItsSt4rdust",
-          "seen": 1790954211546
+          "owner": "keibongo",
+          "seen": 1790710638494
         }
       ]
     }
