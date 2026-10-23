@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1792783316486,
+  "updated": 1792785116657,
   "weapons": {
     "mirror": {
       "state": "conquered",
@@ -96,8 +96,8 @@
       "copies": [
         {
           "state": "held",
-          "owner": "nantag",
-          "seen": 1792082979200
+          "owner": "oliverstone",
+          "seen": 1792785054995
         }
       ]
     },
